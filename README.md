@@ -2,3 +2,6 @@
 Repositório inicial
 
 Novo Readme
+
+
+Lembrei do comando: git status
